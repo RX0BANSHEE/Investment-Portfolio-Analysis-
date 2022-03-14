@@ -43,13 +43,19 @@ All in all, according to the Monte Carlo Simulation Outcome and compare with the
 
 
 
-Packages used
+Packages used:
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
-%matplotlib inline
-import seaborn as sns; sns.set()
-plt.style.use('seaborn-white')
+
+
+import seaborn as sns
+
+
 import warnings
+
 from datetime import datetime
-warnings.filterwarnings("ignore")
+
+
